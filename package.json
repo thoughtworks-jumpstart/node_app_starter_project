@@ -1,0 +1,15 @@
+{
+  "name": "node_app_debug_demo",
+  "version": "1.0.0",
+  "description": "A project to demostrate how to debug node commandline app",
+  "main": "main.js",
+  "author": "songguoqiang <songguoq@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
