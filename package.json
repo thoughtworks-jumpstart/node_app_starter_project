@@ -1,5 +1,5 @@
 {
-  "name": "A node app starter project",
+  "name": "node_app_starter_project",
   "version": "1.0.0",
   "description": "A project to demonstrate how to build node commandline app",
   "main": "main.js",
